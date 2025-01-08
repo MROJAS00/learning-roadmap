@@ -4,7 +4,7 @@ Welcome to the Learning Roadmap repository! This repo contains various exercises
 
 ## Roadmap
 
-- **server-stats.sh**: Script to monitor and display server statistics.
+- **server-stats.sh**: Script to monitor and display server statistics. https://roadmap.sh/projects/server-stats
 
 
 Feel free to explore each file and follow the exercises to enhance your learning journey.
